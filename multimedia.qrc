@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Bomberman/Bloques/bloques.png</file>
+        <file>Bomberman/personaje/muerte_personaje.png</file>
+        <file>Bomberman/personaje/personaje_mov.png</file>
+        <file>Bomberman/personaje/personaje2_mov.png</file>
+        <file>Bomberman/Enemigo/globo.png</file>
+        <file>Bomberman/puerta/puerta.png</file>
+        <file>Bomberman/bomba/still.png</file>
+        <file>Bomberman/puntaje/puntaje.png</file>
+        <file>Bomberman/explosión/1.png</file>
+        <file>Bomberman/explosión/2.png</file>
+        <file>Bomberman/explosión/3.png</file>
+        <file>Bomberman/explosión/4.png</file>
+        <file>Bomberman/explosión/5.png</file>
+        <file>Bomberman/explosión/6.png</file>
+        <file>Bomberman/explosión/7.png</file>
+        <file>Bomberman/explosión/8.png</file>
+    </qresource>
+</RCC>
